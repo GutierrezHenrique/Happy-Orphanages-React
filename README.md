@@ -1,44 +1,48 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Happy
+ Um projeto RocketSeat
+ 
+## Português Versão
+ 
+## Sobre
 
-## Available Scripts
 
-In the project directory, you can run:
+O Projeto tem como objetivo mostrar que a programação é fácil de lidar e com vários caminhos e formas diferentes, além de trazer o conhecimento da linguagem. A rocketSeat mostra como é transformar um aprendizado em algo comunitário e colaborativo, ajudando os orfanatos locais a lidarem com a crise, e divulgando, para todas as pessoas a possibilidade de ter esse contato virtual.
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##  Como Rodar o Projeto?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+# Passo 1
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Faça o Git Push para seu diretório local
 
-### `yarn build`
+# Passo 2
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Realiza o comando `yarn start`
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# Passo 3
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Acesso o link http://localhost:3000](http://localhost:3000) do seu navegador
 
-### `yarn eject`
+## English Version
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Happy
+ One Project for RocketSeat
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## About
+The Project aims to show that programming is easy to deal with and with several different paths and forms, in addition to bringing knowledge of the language. rocketSeat shows what it's like to transform learning into something community and collaborative, helping local orphanages deal with the crisis, and spreading to everyone the possibility of having this virtual contact.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Step 1
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Make Git Push for your local directory
 
-## Learn More
+# Step 2
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Performs the 'yarn start' command
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Step 3
+
+Access the link http://localhost:3000](http://localhost:3000) from your browser
+
+## Thanks Developers || Obrigado Programadores
+
